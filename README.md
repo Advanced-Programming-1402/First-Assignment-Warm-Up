@@ -27,21 +27,28 @@ To get started with the assignments, follow the steps below:
    git push origin main
    ```
 
-8. If you encounter any issues or have questions, feel free to create an issue in the repository or reach out to your mentor. 🤝🚀
+8. If you encounter any issues or have questions, feel free to create an issue in the repository or reach out to your mentor. 🤝
 
 
 ## Prerequisites ✅
+
+Before attempting this assignment, make sure you have the following:
 
 - Basic knowledge of Java
 - Familiarity with Git and GitHub basics
 
 ## Evaluation 📃
-- Your code should compile and run without any errors
-- Your code should pass all the unit tests included in the `src/test/java` directory.
-- Your code should be well-organized, readable, properly commented and follows clean code principles
-- You should use Git for version control and include meaningful commit messages
 
-**Attention: Using ChatGPT or any other AI generative model for any section of the assignment will result in a score of 0 without any warnings.**
+To successfully complete this assignment, you need to meet the following requirements:
+
+1. Ensure your code compiles and runs without any errors.
+2. Pass all the unit tests provided in the `src/test/java` directory.
+3. Organize your code in a clear and readable manner. Use proper indentation and follow clean code principles.
+4. Add comments to explain your code and make it easier to understand.
+
+Remember to use Git for version control throughout the assignment. Commit your changes frequently and provide meaningful commit messages to track your progress.
+
+**Note: It is strictly prohibited to use ChatGPT or any other AI generative model for completing any section of this assignment. Failure to comply will result in a score of 0 without any warnings.**
 
 ## Resources 📚
 
