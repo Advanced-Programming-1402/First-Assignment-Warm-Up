@@ -27,7 +27,7 @@ public class Exercises1 {
      */
 
     public char[][] generateTriangle(int rows) {
-
+        return null;
     }
 
 }
