@@ -8,12 +8,7 @@
 name: Exercise 2 workflow
 run-name: Exercise 2 tests
 
-on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
+on: push
 
 permissions:
   contents: read
