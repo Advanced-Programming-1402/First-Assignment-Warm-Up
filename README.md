@@ -6,7 +6,7 @@ Welcome to your first assignment in your Advanced Programming course! This repos
 
 To get started with the assignments, follow the steps below:
 
-1. Clone the repository to your local machine using the following command:
+1. Fork this repository and clone the fork to your local machine using the following command:
 
    ```
    git clone <repository_url>
@@ -21,13 +21,13 @@ To get started with the assignments, follow the steps below:
    git commit -m "Completed Assignment <number>"
    ```
 
-6. Push your changes to the remote repository using the following command:
+5. Push your changes to the remote repository using the following command:
    
    ```
    git push origin main
    ```
 
-8. If you encounter any issues or have questions, feel free to create an issue in the repository or reach out to your mentor. 🤝
+6. If you encounter any issues or have questions, feel free to create an issue in the repository or reach out to your mentor. 🤝
 
 
 ## Prerequisites ✅
