@@ -27,7 +27,7 @@ To get started with the assignments, follow the steps below:
    git push origin main
    ```
 
-6. If you encounter any issues or have questions, feel free to create an issue in the repository or reach out to your mentor. 🤝
+6. Ensure to add your mentor to your fork of the repository before the project deadline. If you encounter any issues or have questions, feel free to create an issue in the repository or reach out to your mentor. 🤝
 
 
 ## Prerequisites ✅
