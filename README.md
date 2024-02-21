@@ -12,6 +12,8 @@ To get started with the assignments, follow the steps below:
    git clone <repository_url>
    ```
 
+2. Enable workflows in the `Actions` tab of your fork of the repository. This will allow GitHub to run the provided test cases.
+
 3. Complete the tasks given in each assignment. The details and requirements for each assignment can be found as a comment block over their respective methods.
 
 4. Once you have completed an assignment, commit your changes using the following commands:
