@@ -3,10 +3,15 @@ public class Exercises1
     /*
     implement a function that returns factorial of given n
      */
-    public long factorial(int n) 
+    public static long factorial(int n) 
     {
         // TODO
-        return 0;
+    	long ans = 1;
+    	for (int i = 1; i < n+1; i++)
+    	{
+    		ans = ans * i; 
+    	}
+        return ans;
     }
 
 
@@ -41,7 +46,7 @@ public class Exercises1
 
     public static void main(String[] args) 
     {
-        // test your code here!
+
     }
 
 }
